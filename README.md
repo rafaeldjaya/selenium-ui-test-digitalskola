@@ -1,2 +1,2 @@
 # selenium-ui-test-digitalskola
-Sesi 9
+Digital Skola
